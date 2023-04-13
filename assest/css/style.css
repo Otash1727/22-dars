@@ -1,0 +1,21 @@
+.font-cursive{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.font-bold{
+    font-weight: 500;
+}
+.font-italic{
+    font-style: italic;
+}
+.tex-20px{
+    font-size:20px;
+}
+.tex-24px{
+    font-size: 1.5em;
+}
+.text-10vh{
+    font-size:10vh;
+}
+.line-25px{
+    line-height:25px;
+}
